@@ -1,0 +1,3 @@
+Level_3_Q1.py --> Count fewest number of iterations to get to 1 from n (starting from n -> n/2 if n is even, n+1 or n-1 if n is off)
+Triplets.py --> Search an array and find all triplets such that ai divides bj which divides ck where ai < bj < ck and i < j < k
+Markov.py --> Find the hitting times as exact fractions to get from the initial state s0 to all end terminating states. Also requires implementing Gaussian Elimination using integer division only

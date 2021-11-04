@@ -1,0 +1,6 @@
+Google Foobar is a "secret" coding challenge issued by google. The question range from fairly straightforward to requiring mathematics to solve properly. These are my solutions written in Python
+
+I apoligise for the lack of commenting, as this was not a neccesary feature in the coding challenge (I know that isn't a good excuse!)
+
+Regards,
+John Su

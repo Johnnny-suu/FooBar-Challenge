@@ -1,0 +1,10 @@
+key.py --> Combinatorics problem
+	
+	Each lock is numbered starting from 0. The keys are numbered the same as the lock they open (so for a duplicate key, the number will repeat, since it opens the same lock). 
+	For a given bunny, the keys they get is represented as a sorted list of the numbers for the keys. 
+	To cover all of the bunnies, the final answer is represented by a sorted list of each individual bunny's list of keys. 
+	Find the lexicographically least such key distribution - that is, the first bunny should have keys sequentially starting from 0.
+
+	
+
+escape-pods.py --> Implement the Edmonds Karp algorithim to calculate maximum flow over a network  

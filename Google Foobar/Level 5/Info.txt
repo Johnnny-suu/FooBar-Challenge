@@ -1,0 +1,11 @@
+starmap.py --> 		Find all unique classes of a matrix of size m x n under the symmetry group of rows and column permutations.
+ 			This required using Burnsides Lemma and Polya's enumeration theroem as well as polynomial cycle indexes. Also 
+			uses Integer partitions to generate all possible the col/row permutations. 
+
+dodge-the-lasers.py --> Calculate the partial sum of floor(i*sqrt(2)) where i is an integer from 1 to n. n can be 10^100.
+		 	This sequence is called the beatty sequence and it has the property that it, with its complementary sequence, partitions the natural 
+			numbers into 2 sets. We can exploit this and use the quadratic formula for sum of natual numbers and
+			recursion to quickly sum this sequence without having to actually sum each term manually
+			
+			Also requires Newtons method to calculate n*sqrt(2) upto a a finite number of digits dependant on n.
+			Uses integer division to avoid floating point error.
